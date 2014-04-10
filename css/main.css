@@ -19,15 +19,6 @@ body {
   text-align: center;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
-
-h1 { margin-bottom: 1em; }
-p { margin: 1em 0; }
-
-a         { color: #00a; }
-a:hover   { color: #000; }
-a:visited { color: #a0a; }
 
 /*****************************************************************************/
 /*
@@ -48,55 +39,120 @@ header #top-img {
   background-image: url("/images/balloons.jpg");
   position: absolute;
   overflow: hidden;
-  left: -500px;
-  top: -350px;
+  left: -590px;
+  top: -370px;
   width: 2048px;
-  height: 1000px;
+  height: 1140px;
 }
 
 header h1 {
-  margin-top: 20px;
-  font-size: 7em;
+  font-size: 6em;
   font-family: "Helvetica Neue", Helvetica, sans-serif;
+  border: 15px solid #DAE6F5;
   color: #F3EBF5;
+  background-color: #2C496B;
+  width: 1000px;
+  padding: 20px;
+  margin: auto;
+  margin-top: 45px;
 }
+
+nav {
+  /*background-color: rgba(200,200,200,0.5);*/
+  width: 100%;
+  padding: 12px;
+  position: absolute;
+  top: 0px;
+}
+
+nav a, nav a:visited {
+  color: #2C496B;
+  text-decoration: none;
+  font-size: 1.2em;
+  margin-right: 120px;
+}
+ nav a:last-child {
+  margin-right: 0;
+ }
+
 
 
 #gradient {
-  margin-top: 400px;
-  height: 250px;
   width: 100%;
-  background: linear-gradient(to top, rgba(50,93,143,1) 0%,rgba(255,255,255,0) 100%); /* W3C */
+/*  margin-top: 152px;
+  height: 300px;
+  background: linear-gradient(to top, rgba(50,93,143,1) 0%, rgba(255,255,255,0) 100%);
+*/
+  height: 772px;
+  background: linear-gradient(to top, rgba(50,93,143,1) 0%, rgba(255,255,255,0.4) 100%);
 }
 
 h2 {
   font-family: "Georgia", "Times New Roman", serif;
-  font-size: 5em;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  font-size: 3em;
+  margin: 20px auto 10px;
 }
 
 p {
   font-family: "Georgia", "Times New Roman", serif;
-  margin-bottom: 1em;
   font-size: 1.4em;
   line-height: 140%;
   text-align: justify;
+  padding: 0px 20px 10px 20px;
 }
 
 p.intro {
   font-size: 2em;
 }
 
-#posts {
-  width: 800px;
+#main {
+  width: 1070px;
   margin: auto;
-  margin-top: 20px;
+  margin-top: -350px;
+}
+
+#posts {
+  width: 650px;
 }
 
 .post {
   background: #DAE6F5;
   border: 15px solid #2C496B;
-  padding: 20px;
+  margin-bottom: 30px;
 }
 
+#rightcol {
+  float: right;
+  width: 350px;
+}
+
+#rightcol > div {
+  background: #DAE6F5;
+  border: 15px solid #2C496B;
+}
+
+#rightcol #pic img {
+  width: 320px;
+}
+
+#rightcol #pic {
+  position: absolute;
+  height: 427px;
+}
+
+#rightcol #pic #overlay {
+  position: absolute;
+  bottom: 60px;
+  right: 0px;
+  background-color: rgba(50,93,143,0.8);
+  font: 2em Helvetica;
+  color: #DAE6F5;
+  width: 200px;
+  padding: 10px;
+}
+
+footer {
+  color: #DAE6F5;
+  font: 1.2em;
+  padding: 15px;
+}
