@@ -17,7 +17,7 @@ body {
   font: 13.34px Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
-  font-family: 'Coming Soon', 'cursive';
+  font-family: 'Permanent Marker', 'cursive';
 }
 
 
@@ -52,7 +52,7 @@ nav {
 nav a, nav a:visited {
   color: #FEFFFF;
   text-decoration: none;
-  font-size: 1.2em;
+  font-size: 1.6em;
   margin-right: 80px;
   padding: 5px 10px;
 }
@@ -89,8 +89,15 @@ p.intro {
 
 .post {
   padding: 15px 15px 35px 15px;
-  margin-bottom: 30px;
-  border-bottom: 10px solid #4DAE9F;
+}
+
+.bottom-post-border {
+  height: 30px;
+  width: 468px;
+  background-image: url("/images/aztec.jpg");
+  background-repeat: repeat-x;
+  background-position: 0 -173px;
+  margin: 0px auto 0;
 }
 
 #rightcol {
