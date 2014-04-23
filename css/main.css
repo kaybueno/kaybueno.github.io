@@ -18,6 +18,7 @@ body {
   font-size: small;
   text-align: center;
   font-family: 'Permanent Marker', 'cursive';
+  color: #0E0517;
 }
 
 
@@ -59,11 +60,15 @@ nav a, nav a:visited {
  nav a:last-child {
   margin-right: 0;
  }
+ nav a:hover {
+  color: #FAC71E;
+ }
 
 
 h2 {
   font-size: 3em;
   margin: 20px auto 10px;
+  color: #351758;
 }
 
 p {
@@ -132,7 +137,9 @@ p.intro {
 }
 
 footer {
-  color: #4C2678;
-  font: 1.2em;
-  padding: 15px;
+  background-color: #4C2678;
+  color: #FEFFFF;
+  font-size: 1.4em;
+  padding: 12px;
+  margin-top: 30px;
 }
