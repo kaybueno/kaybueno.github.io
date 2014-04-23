@@ -13,10 +13,11 @@
 html, body { height: 100%; }
 
 body {
-  background-color: #325D8F;
+  background-color: #FEFFFF;
   font: 13.34px Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
+  font-family: 'Coming Soon', 'cursive';
 }
 
 
@@ -26,75 +27,47 @@ body {
 /*
 /*****************************************************************************/
 
+
 header {
-  position: absolute;
-  top: 0;
-  width: 100%;
-  height: 800px;
-  overflow: hidden;
+  height: 289px;
+  background-image: url("/images/aztec.jpg");
+  background-repeat: repeat-x;
+  background-position: 0 -230px;
 }
 
-header #top-img {
-  z-index: -100;
-  background-image: url("/images/balloons.jpg");
-  position: absolute;
-  overflow: hidden;
-  left: -590px;
-  top: -370px;
-  width: 2048px;
-  height: 1140px;
-}
 
-header h1 {
-  font-size: 6em;
-  font-family: "Helvetica Neue", Helvetica, sans-serif;
-  border: 15px solid #DAE6F5;
-  color: #F3EBF5;
-  background-color: #2C496B;
-  width: 1000px;
-  padding: 20px;
-  margin: auto;
-  margin-top: 45px;
+header img#logo {
+  margin-top: 25px;
 }
 
 nav {
+  background-color: #4DAE9F;
   /*background-color: rgba(200,200,200,0.5);*/
   width: 100%;
-  padding: 12px;
+  padding: 6px 0;
   position: absolute;
-  top: 0px;
+  top: 254px;
 }
 
 nav a, nav a:visited {
-  color: #2C496B;
+  color: #FEFFFF;
   text-decoration: none;
   font-size: 1.2em;
-  margin-right: 120px;
+  margin-right: 80px;
+  padding: 5px 10px;
 }
  nav a:last-child {
   margin-right: 0;
  }
 
 
-
-#gradient {
-  width: 100%;
-/*  margin-top: 152px;
-  height: 300px;
-  background: linear-gradient(to top, rgba(50,93,143,1) 0%, rgba(255,255,255,0) 100%);
-*/
-  height: 772px;
-  background: linear-gradient(to top, rgba(50,93,143,1) 0%, rgba(255,255,255,0.4) 100%);
-}
-
 h2 {
-  font-family: "Georgia", "Times New Roman", serif;
   font-size: 3em;
   margin: 20px auto 10px;
 }
 
 p {
-  font-family: "Georgia", "Times New Roman", serif;
+  font-family: "Lora", "Georgia", "Times New Roman", serif;
   font-size: 1.4em;
   line-height: 140%;
   text-align: justify;
@@ -108,7 +81,6 @@ p.intro {
 #main {
   width: 1070px;
   margin: auto;
-  margin-top: -350px;
 }
 
 #posts {
@@ -116,19 +88,20 @@ p.intro {
 }
 
 .post {
-  background: #DAE6F5;
-  border: 15px solid #2C496B;
+  padding: 15px 15px 35px 15px;
   margin-bottom: 30px;
+  border-bottom: 10px solid #4DAE9F;
 }
 
 #rightcol {
   float: right;
   width: 350px;
+  margin-top: 30px;
 }
 
 #rightcol > div {
   background: #DAE6F5;
-  border: 15px solid #2C496B;
+  border: 15px solid #4DAE9F;
 }
 
 #rightcol #pic img {
@@ -144,15 +117,15 @@ p.intro {
   position: absolute;
   bottom: 60px;
   right: 0px;
-  background-color: rgba(50,93,143,0.8);
-  font: 2em Helvetica;
+  background-color: rgba(77,175,160,0.8);
+  font-size: 2em;
   color: #DAE6F5;
   width: 200px;
   padding: 10px;
 }
 
 footer {
-  color: #DAE6F5;
+  color: #4C2678;
   font: 1.2em;
   padding: 15px;
 }
