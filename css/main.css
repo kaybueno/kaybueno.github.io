@@ -31,7 +31,7 @@ body {
 
 header {
   height: 289px;
-  background-image: url("/images/aztec.jpg");
+  background-image: url("/images/aztecbanner.png");
   background-repeat: repeat-x;
   background-position: 0 -230px;
 }
@@ -45,9 +45,6 @@ nav {
   background-color: #4DAE9F;
   /*background-color: rgba(200,200,200,0.5);*/
   width: 100%;
-  padding: 6px 0;
-  position: absolute;
-  top: 254px;
 }
 
 nav a, nav a:visited {
