@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Cataract Falls, or how to climb the Eiffel Tower"
+title:  "Cataract Falls, or how to climb the Eiffel Tower of San Francisco"
 date:   2014-04-24
-categories: blogging
+categories: blog
+tags: [hiking, weekend]
 ---
 
 A week or two ago we had a completely open day. The weather's been great, and so we wanted to get outdoors and try a new trail, stretch our legs out a bit from a long week of screens, screens and more screens.

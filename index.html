@@ -1,40 +1,8 @@
 ---
 layout: default
-title: Kitt's sick blog
+title: Kitt has a blog!
 ---
 
-
-<header>
-	<img id="logo" src="images/logo.png" />
-</header>
-<nav>
-	<a href="//youtube.com">Home page</a>
-	<a href="//google.com">About Kitt</a>
-	<a href="//google.com">Contact info</a>
-	<a href="//instagram.com">Instragram</a>
-
-</nav>
-
-
-<!-- <div id="gradient"></div> -->
-
-<div id="main">
-	<div id="rightcol">
-		<div id="pic"><img src="/images/kitt-fb.jpg" /><div id="overlay">Meet Kitt</div></div>
-	</div>
-
-	<div id="posts">
-	{% for post in site.posts %}
-		<div class="post">
-		<h2>{{ post.title }}</h2>
-		{{ post.content }}
-		</div>
-		<div class="bottom-post-border"></div>
-
-	{% endfor %}
-	</div>
-</div>
-
-<footer>
-	© Kitt Vanderwater 2014
-</footer>
+{% for post in site.posts %}
+	{% include post.html %}
+{% endfor %}

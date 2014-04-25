@@ -1,13 +1,9 @@
----
-layout: default
----
-
 <div class="post">
-	<h2><a href="{{page.url}}">{{ page.title }}</a></h2>
+	<h2><a href="{{post.url}}">{{ post.title }}</a></h2>
 	<div class="metadata">
-		Posted on {{ page.date | date: "%B %-d, %Y"}}.
+		Posted on {{post.date | date: "%B %-d, %Y"}}.
 		Categories: <a class="categories">hiking</a>, <a class="categories">weekend</a>.
 	</div>
-	{{ content }}
+	{{ post.content }}
 	<div class="bottom-post-border"></div>
 </div>
