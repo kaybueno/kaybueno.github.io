@@ -2,12 +2,4 @@
 layout: default
 ---
 
-<div class="post">
-	<h2><a href="{{page.url}}">{{ page.title }}</a></h2>
-	<div class="metadata">
-		Posted on {{ page.date | date: "%B %-d, %Y"}}.
-		Categories: <a class="categories">hiking</a>, <a class="categories">weekend</a>.
-	</div>
-	{{ content }}
-	<div class="bottom-post-border"></div>
-</div>
+{% include post.html post=page content=content %}

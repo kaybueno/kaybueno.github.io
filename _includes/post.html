@@ -1,9 +1,9 @@
 <div class="post">
-	<h2><a href="{{post.url}}">{{ post.title }}</a></h2>
+	<h2><a href="{{post.url}}">{{ include.post.title }}</a></h2>
 	<div class="metadata">
-		Posted on {{post.date | date: "%B %-d, %Y"}}.
-		Categories: <a class="categories">hiking</a>, <a class="categories">weekend</a>.
+		Posted on {{ include.post.date | date: "%B %-d, %Y" }}.
+		Categories: {{ include.post.tags | join: ", " }}.
 	</div>
-	{{ post.content }}
+	{{ include.content }}
 	<div class="bottom-post-border"></div>
 </div>

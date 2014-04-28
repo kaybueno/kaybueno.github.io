@@ -4,5 +4,5 @@ title: Kitt has a blog!
 ---
 
 {% for post in site.posts %}
-	{% include post.html %}
+	{% include post.html post=post content=post.content %}
 {% endfor %}
