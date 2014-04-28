@@ -2,7 +2,6 @@
 layout: post
 title:  "It's likely that you'll have post titles at least this long"
 date:   2014-04-09 20:27:24
-categories: blog
 tags: [awesome, pictures]
 ---
 

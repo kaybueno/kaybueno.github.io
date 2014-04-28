@@ -2,7 +2,6 @@
 layout: post
 title:  "Cataract Falls, or how to climb the Eiffel Tower of San Francisco"
 date:   2014-04-24
-categories: blog
 tags: [hiking, weekend]
 ---
 
