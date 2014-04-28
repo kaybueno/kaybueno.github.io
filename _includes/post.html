@@ -1,9 +1,0 @@
-<div class="post">
-	<h2><a href="{{post.url}}">{{ include.post.title }}</a></h2>
-	<div class="metadata">
-		Posted {{ include.post.date | date: "%B %-d, %Y" }}.
-		Tags: {{ include.post.tags | make_tag_links }}
-	</div>
-	{{ include.content }}
-	<div class="bottom-post-border"></div>
-</div>

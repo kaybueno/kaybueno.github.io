@@ -1,5 +1,0 @@
-name: Your New Jekyll Site
-markdown: redcarpet
-pygments: true
-permalink: /:i_month-:i_day-:year/:title.html
-
