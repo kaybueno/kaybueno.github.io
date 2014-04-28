@@ -1,8 +1,8 @@
 <div class="post">
 	<h2><a href="{{post.url}}">{{ include.post.title }}</a></h2>
 	<div class="metadata">
-		Posted on {{ include.post.date | date: "%B %-d, %Y" }}.
-		Categories: {{ include.post.tags | join: ", " }}.
+		Posted {{ include.post.date | date: "%B %-d, %Y" }}.
+		Tags: {{ include.post.tags | make_tag_links }}
 	</div>
 	{{ include.content }}
 	<div class="bottom-post-border"></div>

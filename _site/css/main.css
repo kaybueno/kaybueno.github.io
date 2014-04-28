@@ -123,8 +123,13 @@ p img {
 
 }
 
-p.intro {
-  font-size: 2em;
+p a, p a:visited {
+  text-decoration: none;
+  color: #4C2678;
+}
+
+p a:hover {
+  text-decoration: underline;
 }
 
 #main {
@@ -134,13 +139,13 @@ p.intro {
 }
 
 #posts {
-  width: 760px;
+  width: 745px;
   display: inline-block;
-  margin: 30px 0 0 50px;
+  margin: 30px 0 0 65px;
 }
 
 .post {
-  padding: 0 15px 35px 15px;
+  padding: 0 15px 35px 0;
   width: 760px;
 }
 
@@ -153,6 +158,30 @@ p.intro {
   color: #FEFFFF;
   padding: 10px 12px;
   line-height: 1.4em;
+}
+
+h2.tag {
+  background-color: #4C2678;
+  padding: 10px 16px;
+  color: #FEFFFF;
+  font-family: "Lora", "Georgia", "Times New Roman", serif;
+  font-size: 1.3em;
+  font-weight: normal;
+  margin-left: 0;
+  width: 504px;
+}
+
+span.tag {
+  font-style: oblique;
+}
+
+a.tag, a.tag:visited {
+  color: #FEFFFF;
+  text-decoration: none;
+}
+
+a.tag:hover {
+  text-decoration: underline;
 }
 
 .bottom-post-border {
