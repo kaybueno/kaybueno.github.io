@@ -1,7 +1,3 @@
-/************************************/
-/* Common
-/************************************/
-
 /* Global Reset */
 * {
   margin: 0;
@@ -21,9 +17,12 @@ a {
   font-size: 1em;
 }
 
-/******************************************/
-/* Home
-/******************************************/
+/**************************************************************************/
+/**************** Default styles ******************************************/
+/* Note that for compatibilty, styles are "Desktop first" and overriden
+/* by mobile/tablet stylesheets beacuse @media queries are not recognized
+/* on all desktop browsers.
+/**************************************************************************/
 
 @font-face {
   font-family: AztecHipster;
@@ -36,6 +35,8 @@ header {
   background-size: 343px;
   background-position: 0 -54px;
   text-align: center;
+  height: 232px;
+  overflow-x: hidden;
 }
 
 h1 {
@@ -56,6 +57,7 @@ h1, h1 a, h1 a:visited {
 
 img#logo {
   margin-top: 25px;
+  height: 166px;
 }
 
 nav {
@@ -244,37 +246,21 @@ a.tag:hover {
 }
 
 
-/***********************************
-/***** Desktop-specific layout *****
-/***********************************/
+/****************************************
+/***** Small-header layout ***************
+/****************************************/
 
-@media (min-device-width: 401px) {
+@media all and (max-width: 800px) {
   header {
-    height: 232px;
-  }
-  img#logo {
-    height: 166px;
-  }
-}
-
-/***********************************
-/***** Mobile layout ***************
-/***********************************/
-
-@media all and (max-device-width: 400px) {
-  body {
-    font-size: 14px;
-  }
-
-  header {
+    height: auto;
     background-size: 363px;
     background-position: 0 -55px;
-    overflow-x: hidden;
   }
 
   header img#logo {
+    height: initial;
     width: 120%;
-    margin: 37px 0 -13px -9%;
+    margin: 37px 0 -3.7% -9%;
   }
 
   nav {
@@ -296,6 +282,17 @@ a.tag:hover {
 
   nav a:last-child {
     display: none;
+  }
+}
+
+/****************************************
+/***** Non-desktop layout ***************
+/****************************************/
+
+
+@media all and (max-width: 1100px) {
+  body {
+    font-size: 14px;
   }
 
   #leftcol {
@@ -326,9 +323,9 @@ a.tag:hover {
 
   .post .metadata {
     float: none;
-    padding: 7px 11px;
+    padding: 1.5% 3%;
     margin-bottom: 0.5em;
-    width: 90%;
+    width: 94%;
   }
 
   h2 {
@@ -354,4 +351,99 @@ a.tag:hover {
     background-size: 265px;
   }
 
+}
+
+
+/*****************************************
+/**** All tablets ************************
+/*****************************************/
+
+@media all and (min-width: 610px) and (max-width: 1100px) {
+  
+  body {
+    font-size: 16px;
+  }
+
+  nav a:first-child {
+    display: inline-block;
+  }
+
+  nav a:last-child {
+    display: inline-block;
+  }
+
+
+  #main {
+    width: 600px;
+    margin: auto;
+    overflow: hidden;
+  }
+
+  #posts {
+    width: 520px;
+    margin: 0;
+    padding: 0 40px;
+  }
+
+  .post {
+    width: 520px;
+  }
+
+  p img {
+    margin-left: -40px;
+    width: 600px;
+    border-width: 3px 0;
+  }
+
+  .bottom-post-border {
+    height: 22px;
+    background-size: 271px;
+  }
+
+}
+
+
+/************************************************
+/****** Landscape tablets / small desktop *******
+/************************************************/
+
+@media all and (min-width: 801px) and (max-width: 1100px) {
+  header {
+    height: 212px;
+    background-position: 0 -47px;
+    background-size: 313px;
+  }
+
+  img#logo {
+    height: 146px;
+  }
+
+  nav {
+    width: 650px;
+    margin-top: -57px;
+    margin-bottom: 20px;
+  }
+
+  nav a, nav a:visited, a.nav, a.nav:visited {
+    margin-right: 25px;
+    padding: 1px 10px;
+  }
+
+  #main {
+    width: 760px;
+  }
+
+  #posts {
+    width: 520px;
+    padding: 0 115px;
+  }
+
+  .post {
+    width: 520px;
+  }
+
+  p img {
+    margin-left: -115px;
+    width: 760px;
+  }
 }
