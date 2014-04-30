@@ -248,7 +248,7 @@ a.tag:hover {
 /***** Desktop-specific layout *****
 /***********************************/
 
-@media (min-device-width: 401px) {
+@media (min-width: 601px) {
   header {
     height: 232px;
   }
@@ -261,7 +261,7 @@ a.tag:hover {
 /***** Mobile layout ***************
 /***********************************/
 
-@media all and (max-device-width: 400px) {
+@media all and (max-width: 600px) {
   body {
     font-size: 14px;
   }
@@ -274,7 +274,7 @@ a.tag:hover {
 
   header img#logo {
     width: 120%;
-    margin: 37px 0 -13px -9%;
+    margin: 37px 0 -3.7% -9%;
   }
 
   nav {
@@ -354,4 +354,18 @@ a.tag:hover {
     background-size: 265px;
   }
 
+}
+
+/*****************************************
+/**** Phablet / Mini-tablet layouts ******
+/*****************************************/
+
+@media all and (min-width: 500px) {
+    nav a:first-child {
+    display: inline-block;
+  }
+
+  nav a:last-child {
+    display: inline-block;
+  }
 }
