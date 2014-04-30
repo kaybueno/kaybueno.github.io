@@ -1,8 +1,6 @@
-/*****************************************************************************/
-/*
+/************************************/
 /* Common
-/*
-/*****************************************************************************/
+/************************************/
 
 /* Global Reset */
 * {
@@ -23,11 +21,9 @@ a {
   font-size: 1em;
 }
 
-/*****************************************************************************/
-/*
+/******************************************/
 /* Home
-/*
-/*****************************************************************************/
+/******************************************/
 
 @font-face {
   font-family: AztecHipster;
@@ -35,16 +31,11 @@ a {
 }
 
 header {
-  height: 207px; 
-  /*height: 172px;*/
   background-image: url("/images/aztec-625.png");
   background-repeat: repeat-x;
   background-size: 343px;
   background-position: 0 -54px;
   text-align: center;
-  /*padding-top: 59px;*/
-  padding-top: 25px;
-
 }
 
 h1 {
@@ -63,13 +54,12 @@ h1, h1 a, h1 a:visited {
 }
 
 
-header img#logo {
-  height: 166px;
+img#logo {
+  margin-top: 25px;
 }
 
 nav {
   background-color: #0AB5A2;
-  width: 100%;
   text-align: center;
   padding: 2px 0;
   width: 710px;
@@ -91,46 +81,9 @@ nav a, nav a:visited, a.nav, a.nav:visited {
  }
 
 
-h2 {
-  margin: 0 auto 10px;
-  font-size: 2em;
-  line-height: 1.4em;
-  margin-bottom: 0.7em;
-}
-
-h2, h2 a, h2 a:visited {
-  color: #4C2678;
-  text-decoration: none;
-}
-
-h2 a:hover {
-  text-decoration: underline;
-}
-
-p {
-  font-family: "Lora", "Georgia", "Times New Roman", serif;
-  font-size: 1em;
-  line-height: 140%;
-  border-right: 1px solid #4C2678;
-  width: 520px;
-  padding: 0 1em 1.4em 0;
-}
-
-p img {
-  max-width: 760px;
-  border: 2px solid #4C2678;
-  border-width: 5px 0;
-
-}
-
-p a, p a:visited {
-  text-decoration: none;
-  color: #4C2678;
-}
-
-p a:hover {
-  text-decoration: underline;
-}
+/******************************
+/**** Main layout *************
+/******************************/
 
 #main {
   width: 1070px;
@@ -144,22 +97,6 @@ p a:hover {
   margin: 30px 0 0 65px;
 }
 
-.post {
-  padding: 0 15px 35px 0;
-  width: 760px;
-}
-
-.post .metadata {
-  float: right;
-  font-family: "Lora", "Georgia", "Times New Roman", serif;
-  font-style: oblique;
-  width: 185px;
-  background-color: #4C2678;
-  color: #FEFFFF;
-  padding: 10px 12px;
-  line-height: 1.4em;
-}
-
 h2.tag {
   background-color: #4C2678;
   padding: 10px 16px;
@@ -171,34 +108,25 @@ h2.tag {
   width: 504px;
 }
 
-span.tag {
-  font-style: oblique;
-}
-
-a.tag, a.tag:visited {
+footer {
+  background-color: #4C2678;
   color: #FEFFFF;
+  font-size: 1.2em;
+  padding: 12px;
+  margin-top: 30px;
+  text-align: center;
   text-decoration: none;
 }
 
-a.tag:hover {
-  text-decoration: underline;
+footer a, footer a:visited {
+  text-decoration: none;
+  color: #FEFFFF;
 }
 
-.bottom-post-border {
-  height: 19px;
-  background-image: url("/images/aztec-625.png");
-  background-repeat: repeat-x;
-  background-position: 0 -25px;
-  background-size: 40%;
-}
+/******************************
+/**** Left column *************
+/******************************/
 
-a.categories {
-}
-
-a.categories:hover {
-  text-decoration: underline;
-  cursor: pointer;
-}
 
 #leftcol {
   float: left;
@@ -232,17 +160,198 @@ a.categories:hover {
   font-size: 1.4em;
 }
 
-footer {
-  background-color: #4C2678;
-  color: #FEFFFF;
-  font-size: 1.4em;
-  padding: 12px;
-  margin-top: 30px;
-  text-align: center;
+
+/**********************************
+/***** Posts **********************
+/**********************************/
+
+.post {
+  padding: 0 15px 35px 0;
+  width: 760px;
+}
+
+h2 {
+  margin: 0 auto 10px;
+  font-size: 2em;
+  line-height: 1.4em;
+  margin-bottom: 0.7em;
+}
+
+h2, h2 a, h2 a:visited {
+  color: #4C2678;
   text-decoration: none;
 }
 
-footer a, footer a:visited {
-  text-decoration: none;
+h2 a:hover {
+  text-decoration: underline;
+}
+
+.metadata {
+  float: right;
+  font-family: "Lora", "Georgia", "Times New Roman", serif;
+  font-style: oblique;
+  width: 185px;
+  background-color: #4C2678;
   color: #FEFFFF;
+  padding: 10px 12px;
+  line-height: 1.4em;
+}
+
+p {
+  font-family: "Lora", "Georgia", "Times New Roman", serif;
+  font-size: 1em;
+  line-height: 140%;
+  border-right: 1px solid #4C2678;
+  width: 520px;
+  padding: 0 1em 1.4em 0;
+}
+
+p img {
+  max-width: 760px;
+  border: 2px solid #4C2678;
+  border-width: 5px 0;
+
+}
+
+p a, p a:visited {
+  text-decoration: none;
+  color: #4C2678;
+}
+
+p a:hover {
+  text-decoration: underline;
+}
+
+span.tag {
+  font-style: oblique;
+}
+
+a.tag, a.tag:visited {
+  color: #FEFFFF;
+  text-decoration: none;
+}
+
+a.tag:hover {
+  text-decoration: underline;
+}
+
+.bottom-post-border {
+  height: 19px;
+  background-image: url("/images/aztec-625.png");
+  background-repeat: repeat-x;
+  background-position: 0 -25px;
+  background-size: 40%;
+}
+
+
+/***********************************
+/***** Desktop-specific layout *****
+/***********************************/
+
+@media (min-device-width: 401px) {
+  header {
+    height: 232px;
+  }
+  img#logo {
+    height: 166px;
+  }
+}
+
+/***********************************
+/***** Mobile layout ***************
+/***********************************/
+
+@media all and (max-device-width: 400px) {
+  body {
+    font-size: 14px;
+  }
+
+  header {
+    background-size: 363px;
+    background-position: 0 -55px;
+    overflow-x: hidden;
+  }
+
+  header img#logo {
+    width: 120%;
+    margin: 37px 0 -13px -9%;
+  }
+
+  nav {
+    width: 100%;
+    padding: 5px 0;
+    margin: 0;
+  }
+
+  nav a, nav a:visited, a.nav, a.nav:visited {
+    font-size: 1.1em;
+    margin: 0;
+    padding: 3px 15px;
+    line-height: 145%;
+  }
+
+  nav a:first-child {
+    display: none;
+  }
+
+  nav a:last-child {
+    display: none;
+  }
+
+  #leftcol {
+    display: none;
+  }
+
+  #main {
+    margin: 0;
+    width: 100%;
+  }
+
+  #posts {
+    margin: 0;
+    padding: 0 5% 1em 5%;
+    width: 90%;
+  }
+
+  h2.tag {
+    width: 90%;
+    margin-top: 1em;
+  }
+
+  .post {
+    margin: 15px 0;
+    padding: 0;
+    width: 100%;
+  }
+
+  .post .metadata {
+    float: none;
+    padding: 7px 11px;
+    margin-bottom: 0.5em;
+    width: 90%;
+  }
+
+  h2 {
+    font-size: 1.6em;
+    margin-bottom: 0.5em;
+  }
+
+  p {
+    margin: 0 0 1em 0;
+    padding: 0;
+    width: 100%;
+    border: none;
+  }
+
+  p img {
+    border-width: 2px 0;
+    width: 100%;
+  }
+
+  .bottom-post-border {
+    height: 21px;
+    background-position: 0 -20px;
+    background-size: 265px;
+  }
+
 }
