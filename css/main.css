@@ -133,7 +133,6 @@ footer a, footer a:visited {
 #leftcol {
   float: left;
   width: 270px;
-  height: 100px;
   margin: 30px 45px 0 0;
 }
 
@@ -144,17 +143,17 @@ footer a, footer a:visited {
 
 #leftcol #pic img {
   width: 250px;
-  margin-bottom: -5px;
 }
 
 #leftcol #pic {
-  position: absolute;
+  position: relative
+  height: 333px;
 }
 
 #leftcol #pic a.nav {
   display: block;
-  position: absolute;
-  bottom: 60px;
+  position: relative;
+  bottom: 65px;
   left: 78px;
   background-color: rgba(77,175,160,0.8);
   width: 160px;
