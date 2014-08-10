@@ -56,15 +56,15 @@ h1, h1 a, h1 a:visited {
 
 
 img#logo {
-  margin-top: 25px;
-  height: 166px;
+  margin-top: 42px;
+  height: 135px;
 }
 
 nav {
   background-color: #0AB5A2;
   text-align: center;
   padding: 2px 0;
-  width: 710px;
+  width: 580px;
   margin: -60px auto 0;
 }
 
@@ -72,7 +72,7 @@ nav a, nav a:visited, a.nav, a.nav:visited {
   color: #FEFFFF;
   text-decoration: none;
   font-size: 1.2em;
-  margin-right: 45px;
+  margin-right: 65px;
   padding: 5px 10px;
 }
  nav a:last-child {
@@ -258,8 +258,8 @@ a.tag:hover {
 
   header img#logo {
     height: initial;
-    width: 120%;
-    margin: 37px 0 -3.7% -9%;
+    width: 111%;
+    margin: 47px 0 -2.1% -5.5%;
   }
 
   nav {
@@ -279,9 +279,6 @@ a.tag:hover {
     display: none;
   }
 
-  nav a:last-child {
-    display: none;
-  }
 }
 
 /****************************************
@@ -414,11 +411,11 @@ a.tag:hover {
   }
 
   img#logo {
-    height: 146px;
+    height: 117px;
   }
 
   nav {
-    width: 650px;
+    width: 500px;
     margin-top: -57px;
     margin-bottom: 20px;
   }
