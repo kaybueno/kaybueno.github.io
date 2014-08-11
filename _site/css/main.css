@@ -202,9 +202,12 @@ p {
   font-family: "Lora", "Georgia", "Times New Roman", serif;
   font-size: 1em;
   line-height: 140%;
+  padding: 0 1em 1.4em 0;
+}
+
+p, .disqus_thread_link {
   border-right: 1px solid #4C2678;
   width: 520px;
-  padding: 0 1em 1.4em 0;
 }
 
 p img {
@@ -247,7 +250,8 @@ a.tag:hover {
 .disqus_thread_link a {
   font-family: "Lora", "Georgia", "Times New Roman", serif;
   text-decoration: none;
-  color: #4C2678
+  color: #4C2678;
+  font-weight: 700;
 }
 
 .disqus_thread_link a:hover {
@@ -255,7 +259,8 @@ a.tag:hover {
 }
 
 .disqus_thread_link {
-  margin-bottom: 1em;
+  padding-bottom: 1.5em;
+  padding-right: 16px;
 }
 
 .disqus_thread_link img {
@@ -366,6 +371,11 @@ a.tag:hover {
     height: 21px;
     background-position: 0 -20px;
     background-size: 265px;
+  }
+
+  .disqus_thread_link {
+    border: none;
+    width: 100%;
   }
 
 }
