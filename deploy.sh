@@ -24,7 +24,7 @@ if [ $CURRENT_BRANCH == 'master' ]; then
 	echo "Copying files from $tmpdir"
 	cp -r $tmpdir/* .
 
-	COMMIT_MSG="Last `tail -n 1 ~/kvanderwater.github.io/.git/logs/refs/heads/source | grep "commit: .*" -o`"
+	COMMIT_MSG="Last `tail -n 1 ~/kaybueno.github.io/.git/logs/refs/heads/source | grep "commit: .*" -o`"
 	git add -A
 	git commit -am "$COMMIT_MSG"
 	git push
