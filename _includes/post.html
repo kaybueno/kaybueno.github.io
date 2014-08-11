@@ -5,5 +5,12 @@
 		Tags: {{ include.post.tags | make_tag_links }}
 	</div>
 	{{ include.content }}
+    
+    {% if page.url contains '/index.html' or page.url contains '/tags/' %}
+	<div class="disqus_thread_link">
+		<img src='/images/bullhorn.svg' />&nbsp;<a href="{{ include.post.url }}#disqus_thread">{{ include.post.title }}</a>
+	</div>
+	{% endif %}
+
 	<div class="bottom-post-border"></div>
 </div>

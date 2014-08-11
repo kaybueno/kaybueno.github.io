@@ -244,6 +244,26 @@ a.tag:hover {
   background-size: 40%;
 }
 
+.disqus_thread_link a {
+  font-family: "Lora", "Georgia", "Times New Roman", serif;
+  text-decoration: none;
+}
+
+.disqus_thread_link a:hover {
+  text-decoration: underline;
+}
+
+.disqus_thread_link {
+  margin-bottom: 1em;
+}
+
+.disqus_thread_link img {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  top: 4px;
+}
+
 
 /****************************************
 /***** Small-header layout ***************
