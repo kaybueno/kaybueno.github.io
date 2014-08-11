@@ -247,6 +247,7 @@ a.tag:hover {
 .disqus_thread_link a {
   font-family: "Lora", "Georgia", "Times New Roman", serif;
   text-decoration: none;
+  color: #4C2678
 }
 
 .disqus_thread_link a:hover {
