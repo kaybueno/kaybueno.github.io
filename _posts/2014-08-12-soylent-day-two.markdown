@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Soylent Day Two, as told in seflies."
+title:  "Soylent Day Two, as told in selfies."
 date:   2014-08-12
 tags: [soylent, 30 days of soylent]
 ---
