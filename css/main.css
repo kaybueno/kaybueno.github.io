@@ -125,6 +125,30 @@ footer a, footer a:visited {
   color: #FEFFFF;
 }
 
+.pagination {
+  font-size: 1.2em;
+}
+
+.pagination a, .pagination a:visited {
+  text-decoration: none;
+  color: #4C2678;
+  padding: 4px 13px;
+  border-radius: 4px;
+  border: 1px solid  #4C2678;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.pagination .current_page, .pagination a:hover {
+  color: #FEFFFF;
+  background-color: #4C2678;
+  padding: 4px 13px;
+  border-radius: 4px;
+  border: 1px solid  #4C2678;
+  display: inline-block;
+}
+
+
 /******************************
 /**** Left column *************
 /******************************/
@@ -378,6 +402,21 @@ a.tag:hover {
     width: 100%;
   }
 
+  .pagination {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+}
+
+/*****************************************
+/**** Phone only *************************
+/*****************************************/
+
+@media all and (max-width: 609px) {
+  a.page_link, a.page_link:visited {
+    display: none;
+  }
 }
 
 

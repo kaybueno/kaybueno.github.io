@@ -3,3 +3,5 @@ markdown: redcarpet
 pygments: true
 permalink: /:i_month-:i_day-:year/:title.html
 exclude: [deploy.sh]
+paginate: 4
+paginate_path: "/page:num"
