@@ -33,4 +33,4 @@ My mom was the best cheerleader though! She caught me at 3 of the cheering stati
 
 ![](https://lh6.googleusercontent.com/-LWw4Cc_78u4/VAFfp5BMnFI/AAAAAAAAHzA/RiCrw690Prs/w446-h639-no/seawheeze-2.jpg)
 
-But! I did finish, without medic nor dying. And coming in at 2:29 means that I'll definitely PR SeaWheeze 2015.
+But! I did finish, without medic nor dying. And coming in at 2:29 means that I'll definitely PR SeaWheeze 2015!
