@@ -29,7 +29,7 @@ Unfortunately, I'm bad at kilometers, so this wasn't very useful. But it did sta
 
 Fortunately, the race was a lot of first timers half marathoners, so I wasn't the only one who got tired around this point. The worst part of faltering early was that the last few miles of the race are gorgeous. Runners are weaving around Stanley Park. But at this point all I was focused on was FINISH THE RACE and DON'T DIE. So I hardly paid attention. 
 
-My mom was the best cheerleader though! She caught me at 3 of the cheering stations. Unfortunately photographing runners is both hard, and super unflattering. So here's an okay back shot of me and quite a few other runners going around the water.
+My mom was the best cheerleader though! She caught me at 3 of the cheering stations. Unfortunately photographing runners is both hard, and super unflattering. So here's an okay looking back-shot of me and quite a few other runners going around the water.
 
 ![](https://lh6.googleusercontent.com/-LWw4Cc_78u4/VAFfp5BMnFI/AAAAAAAAHzA/RiCrw690Prs/w446-h639-no/seawheeze-2.jpg)
 
