@@ -5,7 +5,7 @@ date:   2014-09-23
 tags: [Hawaii, biking, Haleakala, Maui]
 ---
 
-On the second day in Hawaii we were up bright and early to do a 26 mile long bike ride down Haleakala, Maui’s volcano. We booked with [Haleakala Bike Co](http://www.bikemaui.com/) who I would wholeheartedly recommend. Our trip included a van ride to the top, a tour around the crater, and then a long, unsupervised bike ride down. Did I mention unsupervised? (Read: J and I get bored following big groups)
+On the second day in Hawaii we were up bright and early to do a 23 mile long bike ride down Haleakala, Maui’s volcano. We booked with [Haleakala Bike Co](http://www.bikemaui.com/) who I would wholeheartedly recommend. Our trip included a van ride to the top, a tour around the crater, and then a long, unsupervised bike ride down. Did I mention unsupervised? (Read: J and I get bored following big groups)
 
 Our guide Kemo, was a local who had ridden down the volcano’s roads by bike, skateboard, and even shopping cart. He was hilarious and personable (as every guide should be), and he should basically quit his day job because the man took the most amazing pictures of us.
 
