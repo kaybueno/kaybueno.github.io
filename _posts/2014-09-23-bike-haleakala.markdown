@@ -31,7 +31,7 @@ Most people were pretty inexperienced at biking, but all turned out fine. Honest
 
 ![](https://lh3.googleusercontent.com/-AzTYoF7PNuw/VB9ztNjylJI/AAAAAAAAKNg/IMPtZoO-4VI/w1062-h708-no/IMG_0738.JPG)
 
-Overall, the ride was super chill. (this is definitely not a calorie burner) But since we spent a few hours out in the sun, we came back and chilled the whole evening.
+Overall, the ride was super chill. (this is definitely not a calorie burner) But since we spent a few hours out in the sun, we came back tired and chilled the whole evening.
 
 ![](https://lh5.googleusercontent.com/-pyq7d7jtB48/VB9zjjf67BI/AAAAAAAAKMU/_P-cs2hSHIc/w1062-h708-no/IMG_0730.JPG)
 
