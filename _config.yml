@@ -3,6 +3,7 @@ markdown: redcarpet
 highlighter: pygments
 permalink: /:i_month-:i_day-:year/:title.html
 exclude: [deploy.sh]
+url: http://www.kaybueno.com
 paginate: 4
 paginate_path: "/page:num"
 gems:
