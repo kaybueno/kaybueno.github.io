@@ -1,6 +1,6 @@
 #!/bin/sh
 
-jekyll build
+#jekyll build
 
 export tmpdir="/tmp/jekyll"
 mkdir $tmpdir
