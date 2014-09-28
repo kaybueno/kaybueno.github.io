@@ -1,7 +1,9 @@
 name: Your New Jekyll Site
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 permalink: /:i_month-:i_day-:year/:title.html
 exclude: [deploy.sh]
 paginate: 4
 paginate_path: "/page:num"
+gems:
+  - jekyll-sitemap
