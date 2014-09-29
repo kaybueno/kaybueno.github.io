@@ -1,4 +1,5 @@
-name: Your New Jekyll Site
+name: ¡Kay Bueno!
+description: ""
 markdown: redcarpet
 highlighter: pygments
 permalink: /:i_month-:i_day-:year/:title.html
