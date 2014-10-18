@@ -29,6 +29,6 @@ These are the VivoBarefoot ones. The boyfriend has been super into minimalist tr
 
 ![](https://lh6.googleusercontent.com/i4jcycKLfXM749LaDzSnfDrjzYlq60orF3QfNSb0AEc=w693-h716-no)
 
-![](https://lh6.googleusercontent.com/i4jcycKLfXM749LaDzSnfDrjzYlq60orF3QfNSb0AEc=w693-h716-no)
+![](https://lh5.googleusercontent.com/ZzorMvSvpTfghrp1YUCjHRib13P58-OTia5PT153FO8=s672-no)
 
 Any big plans for the weekend? Got any faves from this week?
