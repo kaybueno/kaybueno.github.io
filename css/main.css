@@ -185,12 +185,32 @@ footer a, footer a:visited {
   font-size: 1.4em;
 }
 
-
-/**********************************
-/***** Posts **********************
+/**********************************/
+/****** About page ****************/
 /**********************************/
 
-.post {
+
+#about #lead {
+  font-style: oblique;
+  font-size: 1.2em;
+}
+
+#about #contact {
+  font-style: oblique;
+}
+
+#source {
+  font: 0.6em Courier New, Courier, monospace;
+  color: #999999;
+  border: 0;
+  margin: 2em 0 0;
+}
+
+/**********************************/
+/***** Posts **********************/
+/**********************************/
+
+.post, #about {
   padding: 0 15px 35px 0;
   width: 760px;
 }
@@ -361,7 +381,7 @@ a.tag:hover {
     margin-top: 1em;
   }
 
-  .post {
+  .post, #about {
     margin: 15px 0;
     padding: 0;
     width: 100%;
