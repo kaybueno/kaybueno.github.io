@@ -193,6 +193,7 @@ footer a, footer a:visited {
 #about #lead {
   font-style: oblique;
   font-size: 1.2em;
+  border: 0;
 }
 
 #about #contact {
