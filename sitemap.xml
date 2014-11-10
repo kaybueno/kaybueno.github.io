@@ -3,6 +3,14 @@
   
   
   <url>
+    <loc>http://www.kaybueno.com/11-9-2014/weekend-four.html</loc>
+    
+    <lastmod>2014-11-09T00:00:00-08:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://www.kaybueno.com/11-6-2014/flash-tattoo-review.html</loc>
     
     <lastmod>2014-11-06T00:00:00-08:00</lastmod>
@@ -349,14 +357,14 @@
   
   <url>
     <loc>http://www.kaybueno.com/about.html</loc>
-    <lastmod>2014-11-06T17:49:49-08:00</lastmod>
+    <lastmod>2014-11-09T21:33:41-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://www.kaybueno.com/</loc>
-    <lastmod>2014-11-06T17:49:49-08:00</lastmod>
+    <lastmod>2014-11-09T21:33:41-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
