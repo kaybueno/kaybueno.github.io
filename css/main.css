@@ -39,22 +39,6 @@ header {
   overflow-x: hidden;
 }
 
-h1 {
-  font-size: 95px;
-  font-family: AztecHipster;
-  background-color: #4C2678;
-  font-weight: normal;
-  line-height: 105px;
-  margin: auto;
-  width: 800px;
-}
-
-h1, h1 a, h1 a:visited {
-  color: #FEFFFF;
-  text-decoration: none;
-}
-
-
 img#logo {
   margin-top: 42px;
   height: 135px;
@@ -216,19 +200,19 @@ footer a, footer a:visited {
   width: 760px;
 }
 
-h2 {
+h1 {
   margin: 0 auto 10px;
   font-size: 2em;
   line-height: 1.4em;
   margin-bottom: 0.7em;
 }
 
-h2, h2 a, h2 a:visited {
+h1, h1 a, h1 a:visited {
   color: #4C2678;
   text-decoration: none;
 }
 
-h2 a:hover {
+h1 a:hover {
   text-decoration: underline;
 }
 
