@@ -246,11 +246,15 @@ p img {
 
 p a, p a:visited {
   text-decoration: none;
-  color: #4C2678;
+  color: #08A392;
+  border-bottom: 1px dashed #08A392;
 }
 
 p a:hover {
-  text-decoration: underline;
+  color: #068072;
+  border-bottom-color: #068072;
+
+
 }
 
 span.tag {
@@ -304,6 +308,11 @@ a.tag:hover {
   font
 }
 
+iframe.yt {
+  width: 640px;
+  height: 360px;
+}
+
 /****************************************
 /***** Small-header layout ***************
 /****************************************/
@@ -336,6 +345,10 @@ a.tag:hover {
     margin: 0;
     padding: 3px 15px;
     line-height: 145%;
+  }
+
+  iframe.yt {
+    height: 360px;
   }
 
   nav a:first-child {
@@ -403,6 +416,11 @@ a.tag:hover {
     width: 100%;
   }
 
+  iframe.yt {
+    width: 100%;
+  }
+
+
   .bottom-post-border {
     height: 21px;
     background-position: 0 -20px;
@@ -418,7 +436,6 @@ a.tag:hover {
     text-align: center;
     margin-top: 20px;
   }
-
 }
 
 /*****************************************
@@ -429,6 +446,11 @@ a.tag:hover {
   a.page_link, a.page_link:visited {
     display: none;
   }
+
+  iframe.yt {
+    height: 240px;
+  }
+
 }
 
 
