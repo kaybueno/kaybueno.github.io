@@ -29,7 +29,7 @@ And here's the stamp and wax up close. I love that the stamp says "thx". But now
 
 ![Stamp pattern and envelope](https://lh4.googleusercontent.com/gZeM2EEF4SN4NdiwZiDgZHxCXHXpJNXYgFum1lcyzMSq=w895-h716-no)
 
-The next part of the box was the Sevenly Change for Charity jar. One of J and my's ultimate first world problems is that J hates having change in his pockets, wallet, car, etc. So I dump all the change in my purse. Last time I emptied my purse I had 17 dollars in coins in it. Now I have somewhere more reasonable to drop my change than empty candle jars. And I'll feel guilted into donating it. :)
+The next part of the box was the Sevenly Change for Change jar. One of J and my's ultimate first world problems is that J hates having change in his pockets, wallet, car, etc. So I dump all the change in my purse. Last time I emptied my purse I had 17 dollars in coins in it. Now I have somewhere more reasonable to drop my change than empty candle jars. And I'll feel guilted into donating it. :)
 
 ![Cutest change jar](https://lh3.googleusercontent.com/-2CZlFZZi980/VI-8xCzounI/AAAAAAAARGA/dupxsBcYgGo/w800-h716-no/IMG_5381.JPG)
 
