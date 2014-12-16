@@ -2,7 +2,7 @@
 layout: post
 title:  "Sevenly Cause Box Review where I tell you how much I loved it."
 date:   2014-12-16 08:00:00 -0800
-tags: []
+tags: [subscription, review]
 ---
 
 I’ll admit, I kind of love subscription boxes. It seems backwards, not knowing what you’re getting when you pay for it. But, as an adult buying boring things like ziploc bags, and dishwasher liquid, sometimes, online shopping gets boring. So subscription boxes are the closest thing I can get to buying myself presents.
