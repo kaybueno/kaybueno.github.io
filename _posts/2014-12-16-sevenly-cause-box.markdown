@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sevenly Cause Box Review where I tell you how much I loved it."
+title:  "Sevenly CauseBox Review where I tell you how much I loved it."
 date:   2014-12-16 08:00:00 -0800
 tags: [subscription, review]
 ---
