@@ -3,6 +3,14 @@
   
   
   <url>
+    <loc>http://www.kaybueno.com/1-8-2015/life-lessons.html</loc>
+    
+    <lastmod>2015-01-08T07:45:00-08:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://www.kaybueno.com/1-7-2015/WIAW.html</loc>
     
     <lastmod>2015-01-07T08:00:00-08:00</lastmod>
@@ -533,14 +541,14 @@
   
   <url>
     <loc>http://www.kaybueno.com/about.html</loc>
-    <lastmod>2015-01-07T08:10:52-08:00</lastmod>
+    <lastmod>2015-01-08T07:45:24-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://www.kaybueno.com/</loc>
-    <lastmod>2015-01-07T08:10:52-08:00</lastmod>
+    <lastmod>2015-01-08T07:45:24-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
