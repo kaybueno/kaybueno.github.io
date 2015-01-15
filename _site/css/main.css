@@ -36,7 +36,7 @@ header {
   background-position: 0 -54px;
   text-align: center;
   height: 232px;
-  overflow-x: hidden;
+  overflow: hidden;
 }
 
 img#logo {
@@ -244,6 +244,18 @@ p img {
   border-width: 5px 0;
 }
 
+.caption {
+    font-family: "Lora", "Georgia", "Times New Roman", serif;
+    font-size:  0.8em;
+    font-style:  oblique;
+    color: white;
+    background-color: #4C2678;
+    padding: 2px 12px 7px;
+    margin-top: -28px;
+    width: 513px;
+    line-height: 1.5em;
+}
+
 p a, p a:visited {
   text-decoration: none;
   color: #08A392;
@@ -412,8 +424,22 @@ iframe.yt {
   }
 
   p img {
-    border-width: 2px 0;
+/*    border-width: 2px 0;
     width: 100%;
+*/
+
+    margin: 0 auto 26px;
+    display: block;
+    width: auto;
+    max-width: 100%;
+
+    max-height: 460px;
+    border-width: 2px 0;
+  }
+
+  .caption {
+    padding: 9px 3% 7px 3%;
+    width: 94%;
   }
 
   iframe.yt {
@@ -449,6 +475,10 @@ iframe.yt {
 
   iframe.yt {
     height: 240px;
+  }
+
+  .caption {
+    padding-bottom: 5px;
   }
 
 }
@@ -490,9 +520,10 @@ iframe.yt {
   }
 
   p img {
-    margin-left: -40px;
-    width: 600px;
+    /*margin-left: -40px;*/
+    /*width: 600px;*/
     border-width: 3px 0;
+    max-width: 520px;
   }
 
   .bottom-post-border {
@@ -543,7 +574,9 @@ iframe.yt {
   }
 
   p img {
-    margin-left: -115px;
-    width: 760px;
+    /*margin-left: -115px;*/
+    /*width: 760px;*/
+    max-width: 520px;
+
   }
 }
