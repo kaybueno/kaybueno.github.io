@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h2 class='tag'>Posts tagged with <span class='tag'>{{ page.tag }}</span></h2>
+<div class='tag_header'>Posts tagged with <span class='tag'>{{ page.tag }}</span></div>
 
 {% for post in page.posts %}
 	{% include post.html post=post content=post.content %}

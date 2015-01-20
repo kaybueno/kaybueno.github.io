@@ -11,6 +11,7 @@ body {
   font: 16px Helvetica, Arial, sans-serif;
   font-family: 'Permanent Marker', 'cursive';
   color: #0E0517;
+  overflow-x: hidden;
 }
 
 a {
@@ -32,57 +33,56 @@ a {
 header {
   background-image: url("/images/aztec-625.png");
   background-repeat: repeat-x;
-  background-size: 343px;
-  background-position: 0 -54px;
   text-align: center;
-  height: 232px;
   overflow: hidden;
+
+  height: 212px;
+  background-position: 0 -47px;
+  background-size: 313px;
 }
 
 img#logo {
   margin-top: 42px;
-  height: 135px;
+  height: 117px;
 }
 
 nav {
   background-color: #0AB5A2;
   text-align: center;
   padding: 2px 0;
-  width: 580px;
-  margin: -60px auto 0;
+  width: 500px;
+  margin: -57px auto 20px;
 }
 
 nav a, nav a:visited, a.nav, a.nav:visited {
   color: #FEFFFF;
   text-decoration: none;
   font-size: 1.2em;
-  margin-right: 65px;
-  padding: 5px 10px;
+  margin-right: 25px;
+  padding: 1px 10px;
 }
- nav a:last-child {
-  margin-right: 0;
- }
- nav a:hover, a.nav:hover {
-  color: #FAC71E;
- }
 
+nav a:last-child {
+  margin-right: 0;
+  display: inline-block;
+}
+
+nav a:hover, a.nav:hover {
+  color: #FAC71E;
+}
+
+nav a:first-child {
+  display: inline-block;
+}
 
 /******************************
 /**** Main layout *************
 /******************************/
 
 #main {
-  width: 1070px;
-  margin: auto;
-  margin-top: 30px
+  width: 100%;
+  margin-top: 40px;
 }
-
-#posts {
-  width: 745px;
-  display: inline-block;
-  margin: 30px 0 0 0;
-}
-
 
 footer {
   background-color: #4C2678;
@@ -101,6 +101,8 @@ footer a, footer a:visited {
 
 .pagination {
   font-size: 1.2em;
+  text-align: center;
+  margin: 20px auto 0;
 }
 
 .pagination a, .pagination a:visited {
@@ -122,41 +124,14 @@ footer a, footer a:visited {
   display: inline-block;
 }
 
-
-/******************************
-/**** Left column *************
-/******************************/
-
-
-#leftcol {
-  float: left;
-  width: 270px;
-  margin: 30px 45px 0 0;
-}
-
-#leftcol > div {
-  background: #DAE6F5;
-  border: 10px solid #0AB5A2;
-}
-
-#leftcol #pic img {
-  width: 250px;
-}
-
-#leftcol #pic {
-  position: relative;
-  height: 250px;
-}
-
-#leftcol #pic a.nav {
-  display: block;
-  position: relative;
-  bottom: 75px;
-  left: 78px;
-  background-color: rgba(77,175,160,0.8);
-  width: 160px;
-  padding: 6px;
-  font-size: 1.4em;
+.tag_header {
+  margin: 10px auto;
+  max-width: 600px;
+  font-size: 1.5em;
+  color: white;
+  text-align: center;
+  border-bottom: 2px solid #444;
+  background-color: #444;
 }
 
 /**********************************/
@@ -185,15 +160,19 @@ footer a, footer a:visited {
 /***** Posts **********************/
 /**********************************/
 
+.post, #about, #disqus_thread, .pagination {
+  width: 90%;
+}
+
 .post, #about {
-  padding: 0 15px 35px 0;
-  width: 760px;
+  max-width: 600px;
+  margin: 20px auto 0;
 }
 
 h1 {
   font-size: 2em;
   line-height: 1.4em;
-  padding-bottom: 0.6em;
+  padding-bottom: 0.2em;
   text-align: left;
 }
 
@@ -212,48 +191,43 @@ h2 {
 }
 
 .metadata {
-  float: right;
   font-family: "Lora", "Georgia", "Times New Roman", serif;
   font-style: oblique;
-  width: 185px;
   background-color: #4C2678;
   color: #FEFFFF;
-  padding: 10px 12px;
+
+  width: 94%;
   line-height: 1.4em;
+  padding: 1.5% 3%;
+  margin-bottom: 1.5em;
 }
 
 p {
   font-family: "Lora", "Georgia", "Times New Roman", serif;
   font-size: 1em;
   line-height: 140%;
-  padding: 0 1em 1.4em 0;
-}
-
-p, h2, .disqus_thread_link {
-  border-right: 1px solid #4C2678;
-  width: 520px;
-}
-
-h2, .disqus_thread_link {
-  padding-right: 16px;
+  margin-bottom: 1em;
 }
 
 p img {
-  max-width: 760px;
-  border: 2px solid #4C2678;
+  width: 100%;
+  max-width: 600px;
+  max-height: 500px;
+  border: 3px solid #4C2678;
   border-width: 5px 0;
+  margin: 0 auto 26px;
+  display: block;
 }
 
 .caption {
-    font-family: "Lora", "Georgia", "Times New Roman", serif;
-    font-size:  0.8em;
-    font-style:  oblique;
-    color: white;
-    background-color: #4C2678;
-    padding: 2px 12px 7px;
-    margin-top: -28px;
-    width: 513px;
-    line-height: 1.5em;
+  font-family: "Lora", "Georgia", "Times New Roman", serif;
+  font-size:  0.8em;
+  font-style:  oblique;
+  color: white;
+  background-color: #4C2678;
+  padding: 2px 12px 7px;
+  margin-top: -28px;
+  line-height: 1.5em;
 }
 
 p a, p a:visited {
@@ -283,11 +257,15 @@ a.tag:hover {
 }
 
 .bottom-post-border {
-  height: 19px;
   background-image: url("/images/aztec-625.png");
   background-repeat: repeat-x;
-  background-position: 0 -25px;
-  background-size: 40%;
+
+  height: 21px;
+  background-position: 0 -20px;
+  background-size: 265px;
+  max-width: 794px;
+  margin: auto;
+  overflow: hidden;
 }
 
 .disqus_thread_link a {
@@ -312,6 +290,11 @@ a.tag:hover {
   top: 4px;
 }
 
+#disqus_thread {
+  max-width: 790px;
+  margin: auto;
+}
+
 .post ol {
   list-style-position: inside;
 }
@@ -321,7 +304,7 @@ a.tag:hover {
 }
 
 iframe.yt {
-  width: 640px;
+  width: 100%;
   height: 360px;
 }
 
@@ -329,9 +312,9 @@ iframe.yt {
 /***** Small-header layout ***************
 /****************************************/
 
-@media all and (max-width: 800px) {
+@media all and (max-width: 680px) {
   body {
-    overflow-x: hidden;
+    font-size: 15px;
   }
 
   header {
@@ -359,224 +342,17 @@ iframe.yt {
     line-height: 145%;
   }
 
-  iframe.yt {
-    height: 360px;
-  }
-
   nav a:first-child {
     display: none;
   }
 
-}
-
-/****************************************
-/***** Non-desktop layout ***************
-/****************************************/
-
-
-@media all and (max-width: 1100px) {
-  body {
-    font-size: 15px;
-  }
-
-  #leftcol {
-    display: none;
-  }
-
   #main {
-    margin: 0;
-    width: 100%;
-  }
-
-  #posts {
-    margin: 0;
-    padding: 0 5% 1em 5%;
-    width: 90%;
-  }
-
-  .post, #about{
-    margin: 15px 0;
-    padding: 0;
-    width: 100%;
-  }
-
-  .metadata {
-    float: none;
-    padding: 1.5% 3%;
-    margin-bottom: 1.5em;
-    width: 94%;
-  }
-
-  h1 {
-    padding-bottom: 0.2em;
-  }
-
-  h2 {
-    border: none;
-    width: 100%;
-  }
-
-  p {
-    margin: 0 0 1em 0;
-    padding: 0;
-    width: 100%;
-    border: none;
-  }
-
-  p img {
-/*    border-width: 2px 0;
-    width: 100%;
-*/
-
-    margin: 0 auto 26px;
-    display: block;
-    width: auto;
-    max-width: 100%;
-
-    max-height: 460px;
-    border-width: 2px 0;
-  }
-
-  .caption {
-    padding: 9px 3% 7px 3%;
-    width: 94%;
-  }
-
-  iframe.yt {
-    width: 100%;
-  }
-
-
-  .bottom-post-border {
-    height: 21px;
-    background-position: 0 -20px;
-    background-size: 265px;
-  }
-
-  .disqus_thread_link {
-    border: none;
-    width: 100%;
-  }
-
-  .pagination {
-    text-align: center;
-    margin-top: 20px;
-  }
-}
-
-/*****************************************
-/**** Phone only *************************
-/*****************************************/
-
-@media all and (max-width: 609px) {
-  a.page_link, a.page_link:visited {
-    display: none;
+    margin-top: 0;
   }
 
   iframe.yt {
     height: 240px;
   }
 
-  .caption {
-    padding-bottom: 5px;
-  }
-
 }
 
-
-/*****************************************
-/**** All tablets ************************
-/*****************************************/
-
-@media all and (min-width: 610px) and (max-width: 1100px) {
-  
-  body {
-    font-size: 16px;
-  }
-
-  nav a:first-child {
-    display: inline-block;
-  }
-
-  nav a:last-child {
-    display: inline-block;
-  }
-
-
-  #main {
-    width: 600px;
-    margin: auto;
-    overflow: hidden;
-  }
-
-  #posts {
-    width: 520px;
-    margin: 0;
-    padding: 0 40px;
-  }
-
-  .post {
-    width: 520px;
-  }
-
-  p img {
-    /*margin-left: -40px;*/
-    /*width: 600px;*/
-    border-width: 3px 0;
-    max-width: 520px;
-  }
-
-  .bottom-post-border {
-    height: 22px;
-    background-size: 271px;
-  }
-
-}
-
-
-/************************************************
-/****** Landscape tablets / small desktop *******
-/************************************************/
-
-@media all and (min-width: 801px) and (max-width: 1100px) {
-  header {
-    height: 212px;
-    background-position: 0 -47px;
-    background-size: 313px;
-  }
-
-  img#logo {
-    height: 117px;
-  }
-
-  nav {
-    width: 500px;
-    margin-top: -57px;
-    margin-bottom: 20px;
-  }
-
-  nav a, nav a:visited, a.nav, a.nav:visited {
-    margin-right: 25px;
-    padding: 1px 10px;
-  }
-
-  #main {
-    width: 760px;
-  }
-
-  #posts {
-    width: 520px;
-    padding: 0 115px;
-  }
-
-  .post {
-    width: 520px;
-  }
-
-  p img {
-    /*margin-left: -115px;*/
-    /*width: 760px;*/
-    max-width: 520px;
-
-  }
-}
