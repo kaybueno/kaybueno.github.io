@@ -210,7 +210,8 @@ p {
 }
 
 p img {
-  width: 100%;
+  /*width: 100%;*/
+  /*height: auto;*/
   max-width: 600px;
   max-height: 500px;
   border: 3px solid #4C2678;
@@ -225,8 +226,8 @@ p img {
   font-style:  oblique;
   color: white;
   background-color: #4C2678;
-  padding: 2px 12px 7px;
-  margin-top: -28px;
+  padding: 6px 12px 7px;
+  margin-top: -31px;
   line-height: 1.5em;
 }
 
@@ -352,6 +353,10 @@ iframe.yt {
 
   iframe.yt {
     height: 240px;
+  }
+
+  p img {
+    max-width: 100%;
   }
 
 }
