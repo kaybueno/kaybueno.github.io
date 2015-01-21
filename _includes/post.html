@@ -1,5 +1,7 @@
 {% if post.coverphoto != null %}
-<img class="coverphoto" src="{{ post.coverphoto }}" />
+	<img class="coverphoto" src="{{ post.coverphoto }}" />
+{% elsif page.coverphoto != null %}
+	<img class="coverphoto" src="{{ page.coverphoto }}" />
 {% endif %}
 
 
