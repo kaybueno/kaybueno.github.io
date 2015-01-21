@@ -153,31 +153,49 @@ footer a, footer a:visited {
   font: 0.6em Courier New, Courier, monospace;
   color: #999999;
   border: 0;
-  margin: 2em 0 0;
+  margin: 2em auto 0;
+  text-align: center;
+  max-width: 90%;
 }
 
 /**********************************/
 /***** Posts **********************/
 /**********************************/
 
+
 .post, #about, #disqus_thread, .pagination {
   width: 90%;
 }
 
 .post, #about {
-  max-width: 600px;
+  max-width: 794px;
   margin: 20px auto 0;
+}
+
+.coverphoto {
+  max-width: 100%;
+  margin: 1em auto -3.5em;
+  display: block;
+  position: relative;
+  z-index: -1;
+}
+
+.coverphoto:first-child {
+  margin-top: 0;
 }
 
 h1 {
   font-size: 2em;
-  line-height: 1.4em;
-  padding-bottom: 0.2em;
-  text-align: left;
+  line-height: 1.2em;
+  text-align: center;
+  margin: 0 auto 0.15em;
+  padding: 10px 20px;
+  background-color: #4C2678;
 }
 
 h1, h1 a, h1 a:visited {
-  color: #4C2678;
+  /*color: #4C2678;*/
+  color: #FEFFFF;
   text-decoration: none;
 }
 
@@ -185,34 +203,39 @@ h1 a:hover {
   text-decoration: underline;
 }
 
+h1, .metadata {
+  max-width: 600px;
+}
+
 h2 {
   font-size: 1.3em;
   padding-bottom: 6px;
 }
 
-.metadata {
+.date {
   font-family: "Lora", "Georgia", "Times New Roman", serif;
   font-style: oblique;
-  background-color: #4C2678;
-  color: #FEFFFF;
-
-  width: 94%;
+  text-align: center;
   line-height: 1.4em;
-  padding: 1.5% 3%;
-  margin-bottom: 1.5em;
+  margin-bottom: 1em;
+  color: #666666;
+}
+
+p, .disqus_thread_link {
+  width: 600px;
+  margin: 0 auto 1em;
 }
 
 p {
   font-family: "Lora", "Georgia", "Times New Roman", serif;
   font-size: 1em;
   line-height: 140%;
-  margin-bottom: 1em;
 }
 
 p img {
-  /*width: 100%;*/
+  max-width: 100%;
   /*height: auto;*/
-  max-width: 600px;
+  /*max-width: 600px;*/
   max-height: 500px;
   border: 3px solid #4C2678;
   border-width: 5px 0;
@@ -227,8 +250,9 @@ p img {
   color: white;
   background-color: #4C2678;
   padding: 6px 12px 7px;
-  margin-top: -31px;
+  margin: -31px auto 0;
   line-height: 1.5em;
+  max-width: 576px;
 }
 
 p a, p a:visited {
@@ -240,21 +264,6 @@ p a, p a:visited {
 p a:hover {
   color: #068072;
   border-bottom-color: #068072;
-
-
-}
-
-span.tag {
-  font-style: oblique;
-}
-
-a.tag, a.tag:visited {
-  color: #FEFFFF;
-  text-decoration: none;
-}
-
-a.tag:hover {
-  text-decoration: underline;
 }
 
 .bottom-post-border {
@@ -264,9 +273,27 @@ a.tag:hover {
   height: 21px;
   background-position: 0 -20px;
   background-size: 265px;
-  max-width: 794px;
-  margin: auto;
+
   overflow: hidden;
+
+  max-width: 794px;
+  margin: 0 auto;
+}
+
+.tags {
+  max-width: 600px;
+  margin: 0 auto 1em;
+  font-weight: bold;
+  font-family: "Lora", "Georgia", "Times New Roman", serif;
+  line-height: 200%;
+  color: #0AB5A2;
+}
+
+.tags a {
+  background-color: #0AB5A2;
+  color: #FEFFFF;
+  text-decoration: none;
+  padding: 4px 7px;
 }
 
 .disqus_thread_link a {
@@ -280,11 +307,7 @@ a.tag:hover {
   text-decoration: underline;
 }
 
-.disqus_thread_link {
-  padding-bottom: 1.5em;
-}
-
-.disqus_thread_link img {
+.disqus_thread_link img, .tags img {
   height: 16px;
   width: 16px;
   position: relative;
@@ -308,6 +331,7 @@ iframe.yt {
   width: 100%;
   height: 360px;
 }
+
 
 /****************************************
 /***** Small-header layout ***************
@@ -355,8 +379,16 @@ iframe.yt {
     height: 240px;
   }
 
-  p img {
+  p, .caption, .disqus_thread_link, p img {
     max-width: 100%;
+  }
+
+  h1 {
+    font-size: 1.5em;
+  }
+
+  .coverphoto {
+    margin-top: 0;
   }
 
 }

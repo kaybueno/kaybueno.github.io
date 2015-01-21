@@ -3,6 +3,8 @@ layout: post
 title:  "Things I’m loving Friday. Basically wine."
 date:   2015-01-16 09:15:00 -0800
 tags: [thoughts]
+coverphoto: https://lh4.googleusercontent.com/ypMSawCEbHHza4bUyWGJ4Nbaf-AqUC6OyvhlMEctTqtb=w794-h500-p-k-no
+thumbnail: https://lh4.googleusercontent.com/ypMSawCEbHHza4bUyWGJ4Nbaf-AqUC6OyvhlMEctTqtb=w200-h200-p-k-no
 ---
 
 Fridays are always sweeter when you have a 3 day weekend after them. 

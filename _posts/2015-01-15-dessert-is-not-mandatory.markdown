@@ -3,6 +3,7 @@ layout: post
 title:  "How I’m eating in January: Dessert isn't Mandatory"
 date:   2015-01-15 08:00:00 -0800
 tags: [resolution]
+coverphoto: https://lh6.googleusercontent.com/YwHpMLh6wcWef9Mh2pqBPhrMosInm-U2j8zcSu7CDYbc=w794-h500-p-k-no
 ---
 
 You know the book “Men are from Mars, Women are from Venus”? The entire premise is that there are undeniable differences between men and women. And while I’m no relationship counselor, I actually think J and I are pretty similar, similar values, similar thought processes, similar jobs. But the one thing we don’t have in common is that J doesn’t really like sugary sweets. And I crave them all the time.

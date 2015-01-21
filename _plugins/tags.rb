@@ -1,10 +1,14 @@
 module Jekyll
 
   module TagFilter
+    def unbreak_spaces(str)
+      return str.gsub(' ', '&nbsp;')
+    end
+
     def make_tag_links(tags)
       return tags.map{ |tag|
-        "<a class='tag' href='/tags/#{tag}'>#{tag}</a>"
-      }.join(", ")
+        "<a class='tag' href='/tags/#{tag}'>#{unbreak_spaces(tag)}</a>"
+      }.join(" ")
     end
   end
 
