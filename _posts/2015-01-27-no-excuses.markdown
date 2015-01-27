@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Living #NoExcuses, when all I want to do is make excuses."
-date:   2015-01-27 12:30:00 -0800
+date:   2015-01-27 00:30:00 -0800
 tags: ["#NoExcuses", Sweat Pink, challenges]
 coverphoto: https://lh4.googleusercontent.com/-dV5NMnpaJcY/VB9zmbzGgQI/AAAAAAAAKMo/XOZv6fp_7Ws/w794-h500-no/IMG_0732.JPG
 thumbnail: https://lh4.googleusercontent.com/-dV5NMnpaJcY/VB9zmbzGgQI/AAAAAAAAKMo/XOZv6fp_7Ws/w200-h200-no/IMG_0732.JPG
