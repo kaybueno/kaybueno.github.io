@@ -30,7 +30,7 @@ We focused mainly on Mt. Sutro open space reserve, which gave us some pretty coo
 
 Sadly. Despite our serious hike. We couldn’t get reservations for burgers. So the whole hike was for nothing. Jk. We had a lot of fun.
 
-Finally, Sunday I hung out with [Cassie](www.almostgettingittogether.com) and [Gina](www.instagram.com/ginamarie_hlc)
+Finally, Sunday I hung out with [Cassie](//www.almostgettingittogether.com) and [Gina](//www.instagram.com/ginamarie_hlc)
 
 ![](https://lh4.googleusercontent.com/-uY_VgnshJKI/VGmVwhaKeEI/AAAAAAAAOxI/TBz2YOXa-uU/w1038-h702-no/2014-11-16.jpg)
 

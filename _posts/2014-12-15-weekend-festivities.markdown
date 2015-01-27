@@ -27,7 +27,7 @@ After downing cake pops, charcuterie, alcohol laden hot chocolate, and much much
 
 ![](https://lh5.googleusercontent.com/XDsv8bsLY-fjdA0ZJKq3rz5Gp9N1LFhLkPhs0cpyZoD1=s915-no)
 
-Best idea ever. The race was a serious blast, and I completed in a pretty reasonable time for a still kind of boozy 5k. 27:50. After the run, I hopped in the car with [Cassie](www.almostgettingittogether.com), and we met [Gina](www.instagram.com/ginamarie_hlc) for brunch and a stroll around the dish.
+Best idea ever. The race was a serious blast, and I completed in a pretty reasonable time for a still kind of boozy 5k. 27:50. After the run, I hopped in the car with [Cassie](//www.almostgettingittogether.com), and we met [Gina](//www.instagram.com/ginamarie_hlc) for brunch and a stroll around the dish.
 
 ![](https://lh3.googleusercontent.com/8rvnSNVpAi_aCCUiGo9vwRauDB9PCnVYDgSnCDTKrkP7=w527-h450-no)
 

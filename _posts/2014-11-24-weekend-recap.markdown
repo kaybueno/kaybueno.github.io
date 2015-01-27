@@ -15,7 +15,7 @@ First. I found and purchased Coconut La Croix. Fyi, for those curious, it’s de
 
 I like it, and I want to make a cocktail out of it basically. It’s kind of a perfect pina colada base. 
 
-Saturday morning I spent picnicing on [Cassie’s](www.almostgettingittogether.com) roof. It was amazing, filled with wine, almonds, popcorn, cheese and really really delicious crackers.
+Saturday morning I spent picnicing on [Cassie’s](//www.almostgettingittogether.com) roof. It was amazing, filled with wine, almonds, popcorn, cheese and really really delicious crackers.
 
 I skipped out for a bit and got my nails done.
 
@@ -41,7 +41,7 @@ And more room in my freezer for sweet potato soft serve:
 
 ![](https://lh4.googleusercontent.com/O9m3ae_yhlKDK6oXpQ53cL3CNOjX14aWClY4nOkZsuk=w639-h716-no)
 
-I ended the evening with a hot yoga class that [Cassie](www.almostgettingittogether.com) found. Fortunately, there is no photographic evidence of this because it was so hot, and I was so sweaty by end, that I’m pretty sure I looked like a wet dog. Beautiful.
+I ended the evening with a hot yoga class that [Cassie](//www.almostgettingittogether.com) found. Fortunately, there is no photographic evidence of this because it was so hot, and I was so sweaty by end, that I’m pretty sure I looked like a wet dog. Beautiful.
 
 How was your weekend? Are you feeling the holiday time crunch!?
 

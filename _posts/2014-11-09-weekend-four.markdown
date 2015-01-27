@@ -8,7 +8,7 @@ It was one of those weekends, where you end up doing so much, you want another w
 
 ![](https://lh6.googleusercontent.com/IC98GPe5mrTvPu2AD06dOdlpWi8aXf-62bp2IUsEOBs=w860-h716-no)
 
-We completed the Guinness Book of World Record’s [longest corn maze](www.coolpatchpumpkins.com). That map. That map is the maze. We died a little inside completing it, but we conquered the corn.
+We completed the Guinness Book of World Record’s [longest corn maze](//www.coolpatchpumpkins.com). That map. That map is the maze. We died a little inside completing it, but we conquered the corn.
 
 ![](https://lh3.googleusercontent.com/-B76phZNHMalKnkbUFmnJRr2xqDROYiZ375T-ngbWQo=w1038-h522-no)
 
@@ -16,7 +16,7 @@ J really wanted a hay ride to celebrate his corn maze completion. Unfortunately 
 
 ![](https://lh5.googleusercontent.com/-Zr8h4rbF_K8/VGBHjDUlpQI/AAAAAAAAN1w/pv4jcBm7KZY/w696-h672-no/IMG_4454.JPG)
 
-[Cassie](www.almostgettingittogether.com) and I hung out again. It was, in a word, magical. If you don’t have a friend you can sweat with, vent to, and eat delicious food with. I totally suggest finding one.
+[Cassie](//www.almostgettingittogether.com) and I hung out again. It was, in a word, magical. If you don’t have a friend you can sweat with, vent to, and eat delicious food with. I totally suggest finding one.
 
 ![](https://lh3.googleusercontent.com/-mfYYDvf6rLY/VGAsnKEbw2I/AAAAAAAAN0E/eos1EQB8u-w/w896-h672-no/IMG_0482.JPG)
 

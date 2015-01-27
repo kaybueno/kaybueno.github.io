@@ -8,14 +8,9 @@ html, body { height: 100%; }
 
 body {
   background-color: #FEFFFF;
-  font: 16px Helvetica, Arial, sans-serif;
-  font-family: 'Permanent Marker', 'cursive';
+  font: 16px "Lora", "Georgia", "Times New Roman", serif;
   color: #0E0517;
   overflow-x: hidden;
-}
-
-a {
-  font-size: 1em;
 }
 
 /**************************************************************************/
@@ -25,10 +20,10 @@ a {
 /* on all desktop browsers.
 /**************************************************************************/
 
-@font-face {
+/*@font-face {
   font-family: AztecHipster;
   src: url("/images/aztec_hipster.ttf");
-}
+}*/
 
 header {
   background-image: url("/images/aztec-625.png");
@@ -47,6 +42,7 @@ img#logo {
 }
 
 nav {
+  font-family: 'Permanent Marker', 'cursive';
   background-color: #0AB5A2;
   text-align: center;
   padding: 2px 0;
@@ -85,6 +81,7 @@ nav a:first-child {
 }
 
 footer {
+  font-family: 'Permanent Marker', 'cursive';
   background-color: #4C2678;
   color: #FEFFFF;
   font-size: 1.2em;
@@ -185,6 +182,7 @@ footer a, footer a:visited {
 }
 
 h1 {
+  font-family: 'Permanent Marker', 'cursive';
   font-size: 2em;
   line-height: 1.2em;
   text-align: center;
@@ -194,7 +192,6 @@ h1 {
 }
 
 h1, h1 a, h1 a:visited {
-  /*color: #4C2678;*/
   color: #FEFFFF;
   text-decoration: none;
 }
@@ -207,35 +204,33 @@ h1, .metadata {
   max-width: 600px;
 }
 
-h2 {
-  font-size: 1.3em;
-  padding-bottom: 6px;
-}
-
 .date {
-  font-family: "Lora", "Georgia", "Times New Roman", serif;
   font-style: oblique;
   text-align: center;
   line-height: 1.4em;
   margin-bottom: 1em;
-  color: #666666;
+  color: #66527D;
 }
 
-p, .disqus_thread_link {
+p, .disqus_thread_link, h2 {
   width: 600px;
   margin: 0 auto 1em;
 }
 
+h2 {
+  font-size: 1.3em;
+  margin-bottom: 0.7em;
+  color: #4C2678;
+}
+
+
 p {
-  font-family: "Lora", "Georgia", "Times New Roman", serif;
   font-size: 1em;
   line-height: 140%;
 }
 
 p img {
   max-width: 100%;
-  /*height: auto;*/
-  /*max-width: 600px;*/
   max-height: 500px;
   border: 3px solid #4C2678;
   border-width: 5px 0;
@@ -244,7 +239,6 @@ p img {
 }
 
 .caption {
-  font-family: "Lora", "Georgia", "Times New Roman", serif;
   font-size:  0.8em;
   font-style:  oblique;
   color: white;
@@ -284,7 +278,6 @@ p a:hover {
   max-width: 600px;
   margin: 0 auto 1em;
   font-weight: bold;
-  font-family: "Lora", "Georgia", "Times New Roman", serif;
   line-height: 200%;
   color: #0AB5A2;
 }
@@ -297,7 +290,6 @@ p a:hover {
 }
 
 .disqus_thread_link a {
-  font-family: "Lora", "Georgia", "Times New Roman", serif;
   text-decoration: none;
   color: #4C2678;
   font-weight: 700;

@@ -23,7 +23,7 @@ My family’s celebrating Thanksgiving with the ugliest 5k of all. I’m super p
 
 ![](https://lh5.googleusercontent.com/-ABozaaNUJpw/VBPfI5BY7gI/AAAAAAAAILM/kkfAvpWU7OU/w679-h177-no/Screen%2BShot%2B2014-09-12%2Bat%2B11.06.01%2Bpm.png)
 
-**[Hot Chocolate 15k - January 2015](www.hotchocolate15k.com)**
+**[Hot Chocolate 15k - January 2015](//www.hotchocolate15k.com)**
 
 I chose this race because a 15k is like the lazy man’s half. And I’m lazy. And it’s super flat. And there’s chocolate at the end of it. 
 

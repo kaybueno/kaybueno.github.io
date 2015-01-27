@@ -11,7 +11,7 @@ Thanks so much for all your sympathy over the crash! J has mostly received tough
 
 This weekend was the least vain weekend of all time, I managed to take almost no photos of myself. Partially because I was home, helping take care of J, and not out adventuring, and partially because I spent most of my weekend eating really delicious food.
 
-Saturday night I went out with [Cassie](www.almostgettingittogether.com), to Cha-ya. It’s a vegetarian/vegan Japanese restaurant that is so hole-in-the-wall, it doesn’t even have a website. Which may be the norm for non-chain restaurants in a lot of cities, but even the [grass fed hotdog stand](http://www.letsbefrankdogs.com/) in my neighborhood has it’s own site. So not being on the internet here is kind of a big deal.
+Saturday night I went out with [Cassie](//www.almostgettingittogether.com), to Cha-ya. It’s a vegetarian/vegan Japanese restaurant that is so hole-in-the-wall, it doesn’t even have a website. Which may be the norm for non-chain restaurants in a lot of cities, but even the [grass fed hotdog stand](http://www.letsbefrankdogs.com/) in my neighborhood has it’s own site. So not being on the internet here is kind of a big deal.
 
 ![](https://lh3.googleusercontent.com/-xtckJoAjNhc/VMXtbycCoKI/AAAAAAAAUcY/pUCfBCa8eTo/s716-no/IMG_6355.JPG)<div class="caption">My suggestion? Order avocado everything.</div>
 

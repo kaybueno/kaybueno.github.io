@@ -7,7 +7,7 @@ coverphoto: https://lh3.googleusercontent.com/-Xh2D9LWYwIs/VL7tpK7-yRI/AAAAAAAAU
 thumbnail: https://lh3.googleusercontent.com/-Xh2D9LWYwIs/VL7tpK7-yRI/AAAAAAAAUUM/c-YPG3NLN0s/w200-h200-no/15%2B-%2B2
 ---
 
-[Last week](http://www.kaybueno.com/1-14-2015/WIAW.html), I felt like my WIAW were becoming predictable. I think if I took another picture of oatmeal, or bagged eggs, my iPhone camera was going to revolt. In order to keep my sanity, and make sure my camera roll wasn’t full up of the same pictures shot every Tuesday. I decided to try different eating styles for [WIAW](www.peasandcrayons.com).
+[Last week](http://www.kaybueno.com/1-14-2015/WIAW.html), I felt like my WIAW were becoming predictable. I think if I took another picture of oatmeal, or bagged eggs, my iPhone camera was going to revolt. In order to keep my sanity, and make sure my camera roll wasn’t full up of the same pictures shot every Tuesday. I decided to try different eating styles for [WIAW](//www.peasandcrayons.com).
 
 This Wednesday I decided to explore what it’s like to be a Vegan. Obviously, doing something for one day doesn’t produce a lot of mindblowing outcomes, and there’s no before/after. I figured it would get me out of a food rut and make me try something new. My goal was to not show you my usual week made vegan, but to try to go “all in” and pick the food I felt best fit the diet. 
 

@@ -25,14 +25,14 @@ My sister gifted me a grinder and some fancy coffee, so lately I’ve been tryin
 
 I really need to make an appointment to get my lashes done again. When I saw this picture in my feed, it reminded me of why I do it. 
 
-Not affiliated with them or anything, but as the laziest person ever. I book literally every beauty appointment on [Style Seat](www.styleseat.com). It's nice to keep my hair, eyelashes, and manicure appointments all in one place. And since I’m the worst at calling places, this is arguably my favorite start-up.
+Not affiliated with them or anything, but as the laziest person ever. I book literally every beauty appointment on [Style Seat](//www.styleseat.com). It's nice to keep my hair, eyelashes, and manicure appointments all in one place. And since I’m the worst at calling places, this is arguably my favorite start-up.
 
 ![eyelashes](https://lh6.googleusercontent.com/jCI-vPiOtyoxn7DRHK-3yC-zcrdeC6I1a29DOztUC3S8=s716-no)
 <div class="caption">Best appointment ever, I sleep for two hours and wake up to lashes like this.</div>
 
 I finally booked a hotel for SeaWheeze. I’m staying at the Pan Pacific with the madre. Last year, I left this until the last minute and I was a wreck. Everything was like 600 dollars a night if you wanted to be anywhere within walking distance to the race. I finally discovered a [bed and breakfast](http://ocanadahouse.com/), which I’d strongly recommend, mom and I loved it. 
 
-But this year, I got an earlier start, and a great deal on [Hotwire](www.hotwire.com), which puts us much closer to the starting line, and more importantly the showcase store. :) 
+But this year, I got an earlier start, and a great deal on [Hotwire](//www.hotwire.com), which puts us much closer to the starting line, and more importantly the showcase store. :) 
 
 ![seawheeze](https://lh4.googleusercontent.com/-1luNQ70MoaM/VGrZutEVkmI/AAAAAAAAO5Q/iWZhd64aB2M/w955-h716-no/seawheeze.JPG)
 <div class="caption">I'm mentally preparing for this madness again. :) </div>

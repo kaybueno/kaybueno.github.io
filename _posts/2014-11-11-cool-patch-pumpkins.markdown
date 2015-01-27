@@ -5,7 +5,7 @@ date:   2014-11-11
 tags: [weekend, Cool Patch Pumpkins, fall]
 ---
 
-Last week a coworker told me the Guiness Book of World Record's [largest corn maze](www.coolpatchpumpkins.com) was just an hour away from San Francisco. 60 acres of corn confusion. 
+Last week a coworker told me the Guiness Book of World Record's [largest corn maze](//www.coolpatchpumpkins.com) was just an hour away from San Francisco. 60 acres of corn confusion. 
 
 Not one to turn down a challenge (especially a challenge that closed this weekend), J and I got a group of friends together and spent most of our Saturday getting lost.
 
