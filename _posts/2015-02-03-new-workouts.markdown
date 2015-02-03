@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My New Workouts"
-date:   2015-02-03 08:00:00 -0800
+date:   2015-02-03 07:00:00 -0800
 tags: [fitness, resolution, strength]
 coverphoto: https://lh6.googleusercontent.com/-TxUgcXAzs7k/VNBmdItxp4I/AAAAAAAAVK0/VmNXDnlqNxY/w794-h500-p-k-no/IMG_6536.JPG
 thumbnail: https://lh6.googleusercontent.com/-TxUgcXAzs7k/VNBmdItxp4I/AAAAAAAAVK0/VmNXDnlqNxY/w200-h200-no/IMG_6536.JPG
