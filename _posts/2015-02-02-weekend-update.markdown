@@ -4,6 +4,7 @@ title:  "Weekend Update"
 date:   2015-02-02 00:00:00 -0800
 tags: [weekend, party, costume]
 coverphoto: https://lh6.googleusercontent.com/-So64JhigMws/VM73hvtTpuI/AAAAAAAAVHc/trHNvYGIu7c/w794-h500-p-k-no/IMG_6518-SMILE.jpg
+thumbnail: https://lh6.googleusercontent.com/-So64JhigMws/VM73hvtTpuI/AAAAAAAAVHc/trHNvYGIu7c/w200-h200-p-k-no/IMG_6518-SMILE.jpg
 ---
 
 Ain’t no party like a Communist Party, ‘cuz a Communist Party is mandatory.
