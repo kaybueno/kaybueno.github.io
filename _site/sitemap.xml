@@ -3,6 +3,14 @@
   
   
   <url>
+    <loc>http://www.kaybueno.com/2-24-2015/plan-active-vacations.html</loc>
+    
+    <lastmod>2015-02-24T07:30:00-08:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://www.kaybueno.com/2-23-2015/weekend-recap-walk-san-francisco.html</loc>
     
     <lastmod>2015-02-23T06:30:00-08:00</lastmod>
@@ -725,14 +733,14 @@
   
   <url>
     <loc>http://www.kaybueno.com/about.html</loc>
-    <lastmod>2015-02-23T06:35:09-08:00</lastmod>
+    <lastmod>2015-02-24T07:26:56-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://www.kaybueno.com/</loc>
-    <lastmod>2015-02-23T06:35:09-08:00</lastmod>
+    <lastmod>2015-02-24T07:26:56-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
