@@ -2,7 +2,7 @@
 layout: post
 title:  "WIAW - Vegan before a Cleanse"
 date:   2015-02-25 08:00:00 -0800
-tags: [weekend, walking, San Francisco]
+tags: [WIAW, vegan, cleanse]
 coverphoto: https://lh3.googleusercontent.com/CDeKZc5oMPB2SR6qDkmRXZL6CEIo0cbBXzP1UGkrNmyt=w794-h500-no
 thumbnail: https://lh3.googleusercontent.com/CDeKZc5oMPB2SR6qDkmRXZL6CEIo0cbBXzP1UGkrNmyt=w200-h200-no
 ---
